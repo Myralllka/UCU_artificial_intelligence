@@ -1,0 +1,3 @@
+[submodule "lab7_search_agents/ucu-ai-checkers"]
+	path = lab7_search_agents/ucu-ai-checkers
+	url = https://github.com/YuriyGuts/ucu-ai-checkers.git
